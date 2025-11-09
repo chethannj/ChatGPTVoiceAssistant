@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+openai
+streamlit-webrtc
+av
+numpy
+SpeechRecognition
+pyttsx3
+pyaudio
+streamlit-mic-recorder
+streamlit-audiorecorder
+sounddevice
+soundfile
+
