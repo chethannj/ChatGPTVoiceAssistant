@@ -25,8 +25,8 @@ pyttsx3	Text-to-speech (offline, local playback)
 
 1️⃣ Clone the repo:
 
-git clone https://github.com/chethannj/AIChatBot.git
-cd AIChatBot
+git clone https://github.com/chethannj/ChatGPTVoiceAssistant
+cd ChatGPTVoiceAssistant
 
 2️⃣ Create a virtual environment:
 
